@@ -2,11 +2,10 @@
   "username": "TimurKry",
   "name": "Timur",
   "handle": "@TimurKry",
-  "role": "Frontend & AI-first web developer",
+  "role": "Fullstack Developer · AI-first",
   "tagline": "I build fast websites, automation for German SMEs and interfaces for medical AI.",
   "meta": "based in Germany · remote · EN / DE / RU",
   "monogram": "TK",
-
   "tiles": [
     {
       "id": "build",
@@ -33,11 +32,26 @@
       "url": "https://github.com/TimurKry/cv"
     }
   ],
-
   "repos": [
-    {"name": "AxlePress", "description": "", "language": ""},
-    {"name": "memora-platform", "description": "", "language": ""},
-    {"name": "meeting-point-finder", "description": "", "language": ""},
-    {"name": "mementos-landing", "description": "", "language": ""}
+    {
+      "name": "AxlePress",
+      "description": "",
+      "language": ""
+    },
+    {
+      "name": "memora-platform",
+      "description": "",
+      "language": ""
+    },
+    {
+      "name": "meeting-point-finder",
+      "description": "",
+      "language": ""
+    },
+    {
+      "name": "mementos-landing",
+      "description": "",
+      "language": ""
+    }
   ]
 }
