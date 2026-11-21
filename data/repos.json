@@ -1,1 +1,30 @@
-{}
+{
+  "AxlePress": {
+    "description": "",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/TimurKry/AxlePress"
+  },
+  "memora-platform": {
+    "description": "White-label SaaS for funeral industry",
+    "language": "TypeScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/TimurKry/memora-platform"
+  },
+  "meeting-point-finder": {
+    "description": "",
+    "language": "JavaScript",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/TimurKry/meeting-point-finder"
+  },
+  "mementos-landing": {
+    "description": "MementoOS landing page (preview) - coordination platform for the funeral industry",
+    "language": "HTML",
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/TimurKry/mementos-landing"
+  }
+}
