@@ -1,0 +1,43 @@
+{
+  "username": "TimurKry",
+  "name": "Timur",
+  "handle": "@TimurKry",
+  "role": "Frontend & AI-first web developer",
+  "tagline": "I build fast websites, automation for German SMEs and interfaces for medical AI.",
+  "meta": "based in Germany · remote · EN / DE / RU",
+  "monogram": "TK",
+
+  "tiles": [
+    {
+      "id": "build",
+      "color": "blue",
+      "label": "BUILD",
+      "title": "Web & product",
+      "text": "Sites, landings, platforms",
+      "url": "https://github.com/TimurKry?tab=repositories"
+    },
+    {
+      "id": "automate",
+      "color": "red",
+      "label": "AUTOMATE",
+      "title": "AI for SMEs",
+      "text": "CRM, workflows, agents",
+      "url": "mailto:timur.dev@gmail.com"
+    },
+    {
+      "id": "cv",
+      "color": "yellow",
+      "label": "CV",
+      "title": "Experience",
+      "text": "MedTech, consulting, games",
+      "url": "https://github.com/TimurKry/cv"
+    }
+  ],
+
+  "repos": [
+    {"name": "AxlePress", "description": "", "language": ""},
+    {"name": "memora-platform", "description": "", "language": ""},
+    {"name": "meeting-point-finder", "description": "", "language": ""},
+    {"name": "mementos-landing", "description": "", "language": ""}
+  ]
+}
