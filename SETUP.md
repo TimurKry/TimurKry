@@ -14,7 +14,7 @@ GitHub READMEs can't run JS or load CSS, but `<img>`-embedded SVGs keep their ow
 Local preview:
 
 ```bash
-pip install fonttools brotli pillow
+pip install fonttools brotli pillow numpy
 python scripts/fetch_data.py          # or --demo
 python scripts/render_readme_cards.py # STATIC=1 for the final frame only
 ```

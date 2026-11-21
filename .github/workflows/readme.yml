@@ -26,7 +26,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install deps
-        run: pip install fonttools brotli pillow
+        run: pip install fonttools brotli pillow numpy
 
       - name: Fetch contributions + repo info
         env:
